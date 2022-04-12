@@ -1,0 +1,31 @@
+{
+  "name": "zku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "number-storage": "yarn hardhat test scripts/testNumberStorage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaliberpoziomka/zku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaliberpoziomka/zku/issues"
+  },
+  "homepage": "https://github.com/kaliberpoziomka/zku#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.2",
+    "web3": "^1.7.3",
+    "hardhat": "^2.9.3",
+    "mocha": "^9.2.2"
+  }
+}
