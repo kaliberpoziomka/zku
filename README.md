@@ -18,4 +18,3 @@ Testing second contract - Ballot:
 ```shell
 npm run ballot
 ```
-(last test is exploiting vulnerability of proposed solution)
