@@ -13,3 +13,9 @@ Testing first contract - NumberStorage:
 ```shell
 npm run number-storage
 ```
+
+Testing second contract - Ballot:
+```shell
+npm run ballot
+```
+(last test is exploiting vulnerability of proposed solution)
